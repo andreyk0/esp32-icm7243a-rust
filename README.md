@@ -10,3 +10,5 @@ ESP32 driver for ICM7243A in Rust
 curl -v "http://$MYIP/" --output - 
 curl -v -XPOST "http://$MYIP/" --data 'ABCDEFGH' --output - 
 ```
+
+![Display](./display.jpg)
